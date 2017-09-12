@@ -1,0 +1,23 @@
+.new-card-style {
+  margin: 30px 10px;
+  padding: 20px;
+}
+
+.new-proposal-row {
+  display: flex;
+  justify-content: center;
+}
+
+.headline {
+  display: flex;
+  justify-content: center;
+}
+
+.alert-danger {
+  margin-top: 3px;
+}
+
+.btn-outline-info {
+  display: flex;
+  justify-content: center;
+}

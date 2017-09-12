@@ -1,0 +1,30 @@
+body {
+  background-color: #252830;
+  color: grey;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#loadingpic {
+  margin-top: 25vh;
+}
+
+.progress {
+  margin-top: 50vh;
+  width: 30%;
+}
+
+.progress-bar-striped {
+  background-color: #ff4d4d;
+}
+
+/*.navbar-nav, .nav-item {
+  display: inline-block;
+}*/
+
+.card {
+  margin-bottom: 15px;
+}
+
+.headline {
+  color: white;
+}
